@@ -1,1 +1,2 @@
-​
+- dfs 사용
+- image[sc][sr]와 바꾸려는 color가 일치할 때 stack overflow 발생 -> 두 값이 같을 때 그냥 리턴하도록 처리
